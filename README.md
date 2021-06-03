@@ -5,7 +5,7 @@ $ git commit -m "Well actually -It kinda works on my machine";
 ```
 
 ## This is what i do
-WebDesigner - Building Bridges Between & Development
+Webdesigner that is Building Bridges Between & Development
 [Theme Machine](https://thememachine.io)
 
 ### Make Things Pretty 
