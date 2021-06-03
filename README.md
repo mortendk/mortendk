@@ -1,8 +1,10 @@
 # mortendk
 ```$ git commit -m "Well actually ... it works on my machine";```
 
+
 ## This is what i do
-Move designs into systems & make systems understand designs
+WebDesigner - Building Bridges Between & Development
+[Theme Machine](https://thememachine.io)
 
 ### Make Things Pretty 
 - Design & Prototypes in Figma
@@ -29,12 +31,7 @@ Move designs into systems & make systems understand designs
 - Alphinejs
 - Vanilla css, js
 
-## Links
-[Theme Machine](https://thememachine.io)
-
-[morten.dk](https://morten.dk)
-
-## SoME
+## SoME Links
 [Linkedin](https://www.linkedin.com/in/mortendk/) |
 [Twitter](https://twitter.com/mortendk) |
 [Facebook](https://www.facebook.com/mortendk)
