@@ -1,18 +1,28 @@
 ### mortendk
-![badge](https://user-images.githubusercontent.com/65756/120402220-ee1b7700-c341-11eb-8fe8-d30feecedd8a.png)
+```$ git commit -m "Well actually ... it works on my machine";```
 
 ## Stuff I work with
 ---
 Web Design Figma (& Styleguides)
 Design Manuals & Guides in fractal.build
-11ty based Flatfile websites SSG ftw !
+11ty - Flatfile websites SSG ftw !
 Drupal8+ Themes
-
+Craftcms
 
 ## Catch me 
-Company https://thememachine.io
+Business: 
+https://thememachine.io
+
+me me me me:
+https://morten.dk
 
 ## SoME
 Linkedin: https://www.linkedin.com/in/mortendk/
+
 Twitter: https://twitter.com/mortendk
+
 Facebook: https://www.facebook.com/mortendk
+
+
+<link rel="webmention" href="https://webmention.io/morten.dk/webmention" />
+<link rel="pingback" href="https://webmention.io/morten.dk/xmlrpc" />
