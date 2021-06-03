@@ -2,7 +2,6 @@
 ```$ git commit -m "Well actually ... it works on my machine";```
 
 ## Stuff I work with
----
 Web Design Figma (& Styleguides)
 Design Manuals & Guides in fractal.build
 11ty - Flatfile websites SSG ftw !
