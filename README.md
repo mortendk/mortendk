@@ -1,7 +1,8 @@
 ![guithub](https://user-images.githubusercontent.com/65756/120645655-f3c7a880-c478-11eb-928b-efbefeb9f383.jpg)
-# mortendk
-```$ git commit -m "Well actually ... it works on my machine";```
 
+```
+$ git commit -m "Well actually -It kinda works on my machine";
+```
 
 ## This is what i do
 WebDesigner - Building Bridges Between & Development
