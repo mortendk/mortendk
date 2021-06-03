@@ -5,24 +5,15 @@ $ git commit -m "Well actually -It kinda works on my machine";
 ```
 
 ## This is what i do
-Webdesigner that is Building Bridges Between & Development
+Building Bridges Between & Development
 [Theme Machine](https://thememachine.io)
 
 ### Make Things Pretty 
 - Design & Prototypes in Figma
-- Web 
-- Mobile Web
-- Apps
+- Web, Mobile Web, Apps
 
 ## Implements the pretty things into code
-- HTML 
-- CSS 
-- JS  
-- Twig 
-- Nunjucks 
-- Blade 
-- PHP 
-
+- HTML, CSS, JS, Twig, Nunjucks, Blade PHP 
 
 ## Systems i work with
 - fractal.build - Design Manuals & Guides in 
