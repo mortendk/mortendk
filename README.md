@@ -4,27 +4,28 @@
 $ git commit -m "works on my machine";
 ```
 
-## This is what i do
+## 👋 This is what i do
 Building Bridges Between & Development
 [Theme Machine](https://thememachine.io)
 
-### Make Things Pretty 
+## 🎨 Make Things Pretty 
 - Design & Prototypes in Figma
-- Web, Mobile Web, Apps
+- Web more web and yes web the free and open platform for everything aweseome
 
-## Implements the pretty things into code
-- HTML, CSS, JS, Twig, Nunjucks, Blade PHP 
+## 👷‍♂️ Implements the pretty things into code
+- HTML, CSS, JS, Twig, Nunjucks, liquid ...  if its a `{{ var }}` and `{% dostuff %}` then im on it
 
-## Systems i work with
-- fractal.build - Design Manuals & Guides in 
-- 11ty - SSG ftw!
-- Drupal8+ Themes (I did use 5+ years to get twig into Drupal 8)
+## 🤖 Systems i work with
 - Craftcms
-- tailwindcss 
-- Alphinejs
-- Vanilla css, js ...
+- Shopify
+- 11ty - SSG ftw!
+- Drupal8+ Themes (I did use 10+ years to get twig into Drupal 8 ;)
+- fractal.build (Design Manuals & documentation)
+- tailwindcss
+- Alphinejs 
+- Vanilla css
 
-## SoME Links
+## 🖇️ Links
 [Linkedin](https://www.linkedin.com/in/mortendk/) |
 [Twitter](https://twitter.com/mortendk) |
 [Facebook](https://www.facebook.com/mortendk)
