@@ -26,9 +26,13 @@ Building Bridges Between & Development
 - Vanilla css
 
 ## 🖇️ Links
+<a rel="me" href="https://mastodon.social/@mortendk">Mastodon</a> |
 [Linkedin](https://www.linkedin.com/in/mortendk/) |
 [Twitter](https://twitter.com/mortendk) |
 [Facebook](https://www.facebook.com/mortendk)
 
+
 <link rel="webmention" href="https://webmention.io/morten.dk/webmention" />
 <link rel="pingback" href="https://webmention.io/morten.dk/xmlrpc" />
+
+
