@@ -26,7 +26,7 @@ Building Bridges Between & Development
 - Vanilla css
 
 ## 🖇️ Links
-<a rel="me" href="https://mastodon.social/@mortendk">Mastodon</a> |
+<a rel="nofollow me" href="https://mastodon.social/@mortendk">Mastodon</a> |
 [Linkedin](https://www.linkedin.com/in/mortendk/) |
 [Twitter](https://twitter.com/mortendk) |
 [Facebook](https://www.facebook.com/mortendk)
