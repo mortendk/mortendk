@@ -6,7 +6,7 @@ $ git commit -m "works on my machine";
 
 ## 👋 This is what i do
 Building Bridges Between & Development
-[Theme Machine](https://thememachine.io)
+[morten.dk](https://morten.dk)
 
 ## 🎨 Make Things Pretty 
 - Design & Prototypes in Figma
