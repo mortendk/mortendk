@@ -17,11 +17,11 @@ Building Bridges Between & Development
 
 ## 🤖 Systems i work with
 - Craftcms
-- Shopify
+- Shopify themes
 - 11ty - SSG ftw!
-- Drupal8+ Themes (I did use 10+ years to get twig into Drupal 8 ;)
+- Drupal8+ Themes (I did use 10+ years to get twig into Drupal 8)
 - fractal.build (Design Manuals & documentation)
-- tailwindcss
+- Tailwindcss 
 - Alphinejs 
 - Vanilla css
 
