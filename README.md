@@ -4,38 +4,23 @@
 $ git commit -m "Done works on my machine";
 ```
 
-## 👋 What i do
-Building Bridges Between Design & Development
-[morten.dk](https://morten.dk)
+**👋 Hi, I’m Morten!**  
+I build bridges between design and development — Making the web awesome, open, and pretty (well i try)
 
-## 🎨 Make Things Pretty 
-- Design
-- UX 
-- Websites yes the web the free and open platform for everything awesome
+[web](https://morten.dk) | [LinkedIn](https://www.linkedin.com/in/mortendk/) | [Mastodon](https://mastodon.social/@mortendk) | [Bluesky](https://bsky.app/profile/morten.dk)
+
+---
+
+## 👷‍♂️ What I Do
+- Design & UX for the open web
+- Front-end development (HTML, CSS, JS, Twig, Nunjucks, Antlers, Liquid, etc.)
+- Systems: Statamic, 11ty, CraftCMS, Shopify, Drupal 8+, Fractal, TailwindCSS, Alpine.js, Vanilla CSS
+
 
 ## 👷‍♂️ Implements the pretty things into code
 - HTML, CSS, JS, Twig, Nunjucks, antlers, liquid ...  if its a `{{ var }}` and `{% dostuff %}` then count me in
 
-## 🤖 Systems i work with
-- Statamic
-- 11ty - SSG ftw!
-- Craftcms
-- Shopify
-- Drupal8+ Themes (I did use 10+ years to get twig into Drupal 8 ...)
-- fractal.build (Design Manuals & documentation)
-- Vanilla css
-- Tailwindcss 
-- Alphinejs 
 
-## 💪 Bragging list
-
-
-## 🖇️ Links
-[morten.dk](https://morten.dk) | 
-[Bluesky](https://bsky.app/profile/morten.dk) |
-[Mastodon](https://mastodon.social/@mortendk) |
-[Facebook](https://www.facebook.com/mortendk) |
-[Linkedin](https://www.linkedin.com/in/mortendk/) |
 
 <link rel="webmention" href="https://webmention.io/morten.dk/webmention" />
 <link rel="pingback" href="https://webmention.io/morten.dk/xmlrpc" />
