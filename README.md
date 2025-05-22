@@ -17,11 +17,6 @@ I build bridges between design and development — Making the web awesome, open,
 - Systems: Statamic, 11ty, CraftCMS, Shopify, Drupal 8+, Fractal, TailwindCSS, Alpine.js, Vanilla CSS
 
 
-## 👷‍♂️ Implements the pretty things into code
-- HTML, CSS, JS, Twig, Nunjucks, antlers, liquid ...  if its a `{{ var }}` and `{% dostuff %}` then count me in
-
-
-
 <link rel="webmention" href="https://webmention.io/morten.dk/webmention" />
 <link rel="pingback" href="https://webmention.io/morten.dk/xmlrpc" />
 
